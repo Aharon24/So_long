@@ -8,13 +8,13 @@ A 42 school project: a simple 2D game developed using the MiniLibX graphics libr
 
 ## 🎮 Controls
 
-| Key    | Action         |
-|--------|----------------|
-| `W`    | Move Up        |
-| `A`    | Move Left      |
-| `S`    | Move Down      |
-| `D`    | Move Right     |
-| `ESC`  | Exit Game      |
+| Key           | Action         |
+|---------------|----------------|
+| `W` or `↑`    | Move Up        |
+| `A` or `←`    | Move Left      |
+| `S` or `↓`    | Move Down      |
+| `D` or `→`    | Move Right     |
+| `ESC`         | Exit Game      |
 
 ## 🗺️ Map Requirements
 
